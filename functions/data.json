@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "des": "This is a Product A",
+      "productCode": 12345
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "des": "This is a Product B",
+      "productCode": 12365
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "des": "This is a Product C",
+      "productCode": 123231
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": 1,
+      "name": "Blog A",
+      "des": "This is a Blog A",
+      "blogCode": 12345
+    },
+    {
+      "id": 2,
+      "name": "Blog B",
+      "des": "This is a Blog B",
+      "blogCode": 12365
+    },
+    {
+      "id": 3,
+      "name": "Blog C",
+      "des": "This is a Blog C",
+      "blogCode": 123231
+    }
+  ]
+}
